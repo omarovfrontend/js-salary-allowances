@@ -14,3 +14,5 @@
 | 20 лет      | выше         | 25%        |
 
 > Учтите вариант ошибки - пользователь вводит отрицательное число.
+
+Demo - https://omarovfrontend.github.io/js-salary-allowances/
